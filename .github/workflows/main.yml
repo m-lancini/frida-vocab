@@ -58,6 +58,7 @@ jobs:
           files: |
             **/*.yml
             **/*.yaml
+            static/**
           json: true
 
       - name: Set turtle file matrix
