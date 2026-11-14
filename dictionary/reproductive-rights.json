@@ -1,0 +1,248 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/reproductive-rights",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "reproductive rights"
+  },
+  "definition": {
+    "en": "The right of every person to decide freely and responsibly on the number, spacing and timing of their children, to have the information, education and means to do so, and to attain the highest possible standard of sexual and reproductive health, free from discrimination, coercion and violence."
+  },
+  "scopeNote": {
+    "en": [
+      "Their contemporary international formulation was shaped above all in Cairo (1994) and has a clear treaty anchor in art. 16.1 (e) of CEDAW. The CRPD recognises them on an equal basis: deciding on offspring and retaining fertility (art. 23) and access to sexual and reproductive health on the basis of free and informed consent (art. 25), with support in decision-making where necessary and never through substitution of the will (art. 12). Their violation – such as forced or non-consensual sterilisation, contraception or abortion – is a form of violence that disproportionately affects women and girls with disabilities."
+    ]
+  },
+  "notation": [
+    "11.6"
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-11",
+    "prefLabel": {
+      "en": "Sexual and reproductive health and rights"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/right-to-marry-and-to-found-a-family",
+      "prefLabel": {
+        "en": "right to marry and to found a family"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/motherhood",
+      "prefLabel": {
+        "en": "motherhood"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/free-and-informed-consent",
+      "prefLabel": {
+        "en": "free and informed consent"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/legal-capacity",
+      "prefLabel": {
+        "en": "legal capacity"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/accessible-comprehensive-sexuality-education",
+      "prefLabel": {
+        "en": "accessible comprehensive sexuality education"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/contraception",
+      "prefLabel": {
+        "en": "contraception"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/forced-sterilisation",
+      "prefLabel": {
+        "en": "forced sterilisation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/gynaecological-care",
+      "prefLabel": {
+        "en": "gynaecological care"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/sexual-rights",
+      "prefLabel": {
+        "en": "sexual rights"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/obstetric-violence",
+      "prefLabel": {
+        "en": "obstetric violence"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

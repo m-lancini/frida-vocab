@@ -1,0 +1,212 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/psychological-violence",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "psychological violence"
+  },
+  "definition": {
+    "en": "Any intentional conduct, whether active or passive, that seriously harms another person's psychological well-being and self-esteem through the infliction of emotional distress, devaluation, coercion, humiliation, or severe disrespect."
+  },
+  "scopeNote": {
+    "en": [
+      "It is characterised by a sustained pattern of abuse that may include repeated insults, verbal aggression, manipulation, threats, intimidation, control over daily activities, forced isolation from social networks, and restrictions on opportunities for personal, social, and economic development."
+    ]
+  },
+  "notation": [
+    "13.8.6"
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/violence-against-women",
+    "prefLabel": {
+      "en": "violence against women"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/social-isolation",
+      "prefLabel": {
+        "en": "social isolation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/trauma",
+      "prefLabel": {
+        "en": "trauma"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/abuse",
+      "prefLabel": {
+        "en": "abuse"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/domestic-violence",
+      "prefLabel": {
+        "en": "domestic violence"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

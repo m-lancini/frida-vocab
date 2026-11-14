@@ -1,0 +1,200 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/universal-design-for-learning",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "universal design for learning"
+  },
+  "definition": {
+    "en": "A model that aims to reshape education by providing a conceptual framework that facilitates the analysis and evaluation of curriculum designs and educational practices, in order to identify barriers to learning and promote inclusive teaching approaches."
+  },
+  "scopeNote": {
+    "en": [
+      "It sets out a framework for developing flexible curricular proposals (objectives, assessment, methodologies and resources) that respond to the diverse needs and abilities of pupils. Recognising the variability among individuals requires teaching approaches that are designed with the full range of differences in mind, using flexible curricular and organisational approaches. Universal Design for Learning is based on three principles: (1) providing multiple ways of engagement, (2) providing multiple forms of representation, and (3) providing multiple forms of action and expression."
+    ]
+  },
+  "notation": [
+    "4.12.1"
+  ],
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/barrier-in-education--education",
+      "prefLabel": {
+        "en": "barrier in education (education)"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/inclusive-education",
+      "prefLabel": {
+        "en": "inclusive education"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/personalisation--education",
+      "prefLabel": {
+        "en": "personalisation (education)"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

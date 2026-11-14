@@ -1,0 +1,271 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-6",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Equality, discrimination and stereotyping"
+  },
+  "scopeNote": {
+    "en": [
+      "Thematic section of the dictionary (grouping used for navigation, not a defined term)."
+    ]
+  },
+  "notation": [
+    "6"
+  ],
+  "narrower": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/minoritised-groups",
+      "prefLabel": {
+        "en": "minoritised groups"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/affirmative-actions",
+      "prefLabel": {
+        "en": "affirmative actions"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/bias",
+      "prefLabel": {
+        "en": "bias"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/discrimination",
+      "prefLabel": {
+        "en": "discrimination"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/equality",
+      "prefLabel": {
+        "en": "equality"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/fairness",
+      "prefLabel": {
+        "en": "fairness"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/intersectionality",
+      "prefLabel": {
+        "en": "intersectionality"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/racism-and-racialisation",
+      "prefLabel": {
+        "en": "racism and racialisation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/segregation",
+      "prefLabel": {
+        "en": "segregation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/stereotypes",
+      "prefLabel": {
+        "en": "stereotypes"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/stigma",
+      "prefLabel": {
+        "en": "stigma"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/vulnerability",
+      "prefLabel": {
+        "en": "vulnerability"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/harassment",
+      "prefLabel": {
+        "en": "harassment"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/hate",
+      "prefLabel": {
+        "en": "hate"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

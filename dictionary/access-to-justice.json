@@ -1,0 +1,230 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/access-to-justice",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "access to justice"
+  },
+  "definition": {
+    "en": "The right and real possibility of every person to turn to the courts and to other dispute-resolution mechanisms, and to participate in them effectively and on an equal basis, whether as a party, witness, victim or in any other capacity."
+  },
+  "scopeNote": {
+    "en": [
+      "It is not exhausted by formal judicial protection: it requires removing the economic, physical, communication and attitudinal barriers that impede it. For persons with disabilities, the CRPD guarantees it in art. 13, which requires procedural accommodations that are age- and gender-appropriate, accessibility and training for those working in the administration of justice; unlike reasonable accommodation, procedural accommodations are not subject to the disproportionate-burden limit. It also has a gender dimension – justice free from stereotypes for women victims of violence – and a childhood dimension – child-friendly justice for children and adolescents."
+    ]
+  },
+  "notation": [
+    "10.1"
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-10",
+    "prefLabel": {
+      "en": "Rights, legal capacity and access to justice"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/legal-capacity",
+      "prefLabel": {
+        "en": "legal capacity"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/mediation",
+      "prefLabel": {
+        "en": "mediation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/procedural-accommodation",
+      "prefLabel": {
+        "en": "procedural accommodation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/reasonable-accommodation",
+      "prefLabel": {
+        "en": "reasonable accommodation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/victim",
+      "prefLabel": {
+        "en": "victim"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/institutional-violence",
+      "prefLabel": {
+        "en": "institutional violence"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/legal-mediation",
+      "prefLabel": {
+        "en": "legal mediation"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/stereotypes",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "stereotypes"
+  },
+  "definition": {
+    "en": "Preconceived opinions and beliefs about individuals or groups, independent of an assessment of the specific conditions of each individual case, and resulting from a prior process of overgeneralisation and oversimplification."
+  },
+  "scopeNote": {
+    "en": [
+      "Stereotypes can relate both to the characteristics, attitudes, abilities and social roles that people belonging to a particular social group are assumed to possess (descriptive dimension), and to the characteristics, attitudes, abilities and social roles that these people are expected to possess (prescriptive dimension). In both cases, stereotypes are never neutral, because they create a hierarchy among subjects and contribute to reproducing asymmetries in power relations."
+    ]
+  },
+  "notation": [
+    "6.10"
+  ],
+  "narrower": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/gender-stereotypes",
+      "prefLabel": {
+        "en": "gender stereotypes"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/intersectional-stereotype",
+      "prefLabel": {
+        "en": "intersectional stereotype"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-6",
+    "prefLabel": {
+      "en": "Equality, discrimination and stereotyping"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/ethnocentrism",
+      "prefLabel": {
+        "en": "ethnocentrism"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/ableism",
+      "prefLabel": {
+        "en": "ableism"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/bias",
+      "prefLabel": {
+        "en": "bias"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/stigma",
+      "prefLabel": {
+        "en": "stigma"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/hate",
+      "prefLabel": {
+        "en": "hate"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/social-barrier",
+      "prefLabel": {
+        "en": "social barrier"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/discrimination-by-assumption-or-perception",
+      "prefLabel": {
+        "en": "discrimination by assumption (or perception)"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/microaggression",
+      "prefLabel": {
+        "en": "microaggression"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

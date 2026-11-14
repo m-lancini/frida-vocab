@@ -1,0 +1,238 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/universal-design",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "universal design"
+  },
+  "definition": {
+    "en": "The design of products, environments, programmes and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialised design, which does not exclude assistive devices where they are needed."
+  },
+  "scopeNote": {
+    "en": [
+      "It is a proactive approach that incorporates human diversity from the very outset of a project. It requires a holistic and interdisciplinary approach to address diversity bias and ensures that technology is \"balanced, inclusive, and efficient\" for both majority and marginal groups. It shifts the focus from designing for a \"paradigmatic subject\" (the presumed majority) to intentionally including non-paradigmatic subjects, such as those with diverse body shapes, health conditions, or marginalised identities. The CRPD defines it in art. 2 and requires its promotion (art. 4.1 (f) and (g)); it is closely related to accessibility (art. 9 and General Comment No. 2), since it makes it possible to conceive accessible environments from the start, and it differs from reasonable accommodation, which is individual and reactive: the better the universal design, the fewer subsequent accommodations are needed. The term is associated with Ronald Mace and the seven principles formulated by the Center for Universal Design; its usefulness extends beyond disability and also benefits older persons and those facing temporary limitations. As a design approach, it aims at balanced, inclusive and efficient environments and products for non-paradigmatic subjects."
+    ]
+  },
+  "notation": [
+    "4.12"
+  ],
+  "narrower": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/universal-design-for-learning",
+      "prefLabel": {
+        "en": "universal design for learning"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-4",
+    "prefLabel": {
+      "en": "Disability, impairment and accessibility"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/accessibility",
+      "prefLabel": {
+        "en": "accessibility"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/paradigmatic-subject",
+      "prefLabel": {
+        "en": "paradigmatic subject"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/reasonable-accommodation",
+      "prefLabel": {
+        "en": "reasonable accommodation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/assistive-technology--robotics",
+      "prefLabel": {
+        "en": "assistive technology (robotics)"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/exclusion--robotics",
+      "prefLabel": {
+        "en": "exclusion (robotics)"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/architectural-and-sensory-barrier",
+      "prefLabel": {
+        "en": "architectural and sensory barrier"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/digital-accessibility",
+      "prefLabel": {
+        "en": "digital accessibility"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

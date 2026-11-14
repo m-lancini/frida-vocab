@@ -1,0 +1,224 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/alternative-care",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "alternative care"
+  },
+  "definition": {
+    "en": "Forms of care for a child deprived of their family environment, or who cannot remain in it in their own interest: foster care, kafalah, residential care and, as a more permanent measure creating a parent-child bond, adoption."
+  },
+  "scopeNote": {
+    "en": [
+      "They are chosen in accordance with the child's best interests and the principles of necessity and suitability, with a preference for family- and community-based solutions. The CRC governs alternative care in art. 20 and adoption in art. 21, complemented by the UN Guidelines for the Alternative Care of Children (2009). For children with disabilities, the CRPD requires preventing their abandonment and segregation, not separating them on the ground of disability and, where they cannot remain with their immediate family, securing their care within the extended family or, failing that, in a family setting within the community (arts. 23.3 to 23.5, in conjunction with art. 19)."
+    ]
+  },
+  "notation": [
+    "2.1"
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-2",
+    "prefLabel": {
+      "en": "Children, family and parental responsibility"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/deinstitutionalisation",
+      "prefLabel": {
+        "en": "deinstitutionalisation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/independent-living-and-inclusion-in-the-community",
+      "prefLabel": {
+        "en": "independent living and inclusion in the community"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/best-interests-of-the-child",
+      "prefLabel": {
+        "en": "best interests of the child"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/children-with-disabilities",
+      "prefLabel": {
+        "en": "children with disabilities"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/parental-responsibility",
+      "prefLabel": {
+        "en": "parental responsibility"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/guardianship",
+      "prefLabel": {
+        "en": "guardianship"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

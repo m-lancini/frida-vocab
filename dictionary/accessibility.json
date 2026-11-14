@@ -1,0 +1,280 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/accessibility",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "accessibility"
+  },
+  "definition": {
+    "en": "A condition ensuring that persons with disabilities have access, on an equal basis with others, to: the physical environment; transportation; information and communications, including information and communications technologies and systems; other facilities and services open or provided to the public, both in urban and in rural areas. This includes the identification and elimination of obstacles and barriers, covering buildings, roads, schools, housing, medical facilities, workplaces, electronic services, and emergency services."
+  },
+  "scopeNote": {
+    "en": [
+      "Although its predominant use places particular emphasis on the architectural aspect, the concept of accessibility also encompasses organisational and cultural dimensions. In relation to the organizational dimension, accessibility requires removing barriers embedded in rules, procedures, schedules, communication practices, and resource allocation. This means, for example, providing flexible ways to participate and ensuring that information is clear. In relation to the cultural dimension, accessibility requires challenging prejudices, language, and established practices that may exclude some people, while promoting listening, recognition, and a sense of belonging. Accessibility therefore also involves the effective opportunity to be recognised as a legitimate voice and to influence the life of the organisation."
+    ]
+  },
+  "notation": [
+    "4.2"
+  ],
+  "narrower": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/digital-accessibility",
+      "prefLabel": {
+        "en": "digital accessibility"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-4",
+    "prefLabel": {
+      "en": "Disability, impairment and accessibility"
+    }
+  },
+  "related": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/right-of-the-child-to-be-heard",
+      "prefLabel": {
+        "en": "right of the child to be heard"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/inclusion--law",
+      "prefLabel": {
+        "en": "inclusion (law)"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/mobility-justice",
+      "prefLabel": {
+        "en": "mobility justice"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/spatial-justice",
+      "prefLabel": {
+        "en": "spatial justice"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/urban-safety",
+      "prefLabel": {
+        "en": "urban safety"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/universal-design",
+      "prefLabel": {
+        "en": "universal design"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/reasonable-accommodation",
+      "prefLabel": {
+        "en": "reasonable accommodation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/situations-of-risk",
+      "prefLabel": {
+        "en": "situations of risk"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/gynaecological-care",
+      "prefLabel": {
+        "en": "gynaecological care"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/assistive-technology--robotics",
+      "prefLabel": {
+        "en": "assistive technology (robotics)"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/usability",
+      "prefLabel": {
+        "en": "usability"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/architectural-and-sensory-barrier",
+      "prefLabel": {
+        "en": "architectural and sensory barrier"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/social-model-of-disability",
+      "prefLabel": {
+        "en": "social model of disability"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/employment-displacement",
+      "prefLabel": {
+        "en": "employment displacement"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

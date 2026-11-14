@@ -1,0 +1,277 @@
+{
+  "id": "https://m-lancini.github.io/frida-vocab/dictionary/section-1",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "Autonomy, participation, care and support"
+  },
+  "scopeNote": {
+    "en": [
+      "Thematic section of the dictionary (grouping used for navigation, not a defined term)."
+    ]
+  },
+  "notation": [
+    "1"
+  ],
+  "narrower": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/agency",
+      "prefLabel": {
+        "en": "agency"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/autonomy",
+      "prefLabel": {
+        "en": "autonomy"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/care",
+      "prefLabel": {
+        "en": "care"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/deinstitutionalisation",
+      "prefLabel": {
+        "en": "deinstitutionalisation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/empowerment",
+      "prefLabel": {
+        "en": "empowerment"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/independence",
+      "prefLabel": {
+        "en": "independence"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/independent-living-and-inclusion-in-the-community",
+      "prefLabel": {
+        "en": "independent living and inclusion in the community"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/infantilisation",
+      "prefLabel": {
+        "en": "infantilisation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/institutionalisation",
+      "prefLabel": {
+        "en": "institutionalisation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/interdependence",
+      "prefLabel": {
+        "en": "interdependence"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/meaningful-participation",
+      "prefLabel": {
+        "en": "meaningful participation"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/personal-assistance",
+      "prefLabel": {
+        "en": "personal assistance"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/support",
+      "prefLabel": {
+        "en": "support"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/caregiver-violence",
+      "prefLabel": {
+        "en": "caregiver violence"
+      }
+    },
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/withdrawal-of-support",
+      "prefLabel": {
+        "en": "withdrawal of support"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://m-lancini.github.io/frida-vocab/dictionary/",
+      "title": {
+        "en": "FRIDA Common Dictionary"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
