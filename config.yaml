@@ -1,7 +1,10 @@
----
+# FRIDA Common Dictionary - SkoHub Vocabs configuration (based on the skohub-pages default)
+# Colours, logo and fonts follow the dictionary PDF: navy #1F3A5F for headings and numbers,
+# grey #5F6368 for notes, FRIDA logo colours (purple, orange) for links on hover and notices.
+# Arial is not free to redistribute, so the site uses Arimo (SIL Open Font License), metrically compatible with Arial.
 # see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
 tokenizer: "full" # strict, forward, reverse, full
-custom_domain: ""
+custom_domain: "https://m-lancini.github.io/frida-vocab/" # concept URIs start with this; pages are built under it
 fail_on_validation: false
 searchableAttributes:
   - "prefLabel" # you should not delete this one
@@ -11,29 +14,28 @@ searchableAttributes:
   - "example"
   - "definition"
 ui:
-  title: "SkoHub Vocabs" # Title is mandatory
-  logo: "skohub-signet-color.svg" # Path
+  title: "FRIDA Common Dictionary" # Title is mandatory
+  logo: "frida-logo.png" # file in static/img
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
-    skoHubDarkColor: "rgb(15, 85, 75)"
-    skoHubMiddleColor: "rgb(20, 150, 140)"
-    skoHubLightColor: "rgb(40, 200, 175)"
-    skoHubThinColor: "rgb(55, 250, 210)"
-    skoHubBlackColor: "rgb(5, 30, 30)"
-    skoHubAction: "rgb(230, 0, 125)"
-    skoHubNotice: "rgb(250, 180, 50)"
-    skoHubDarkGrey: "rgb(155, 155, 155)"
+    skoHubDarkColor: "rgb(31, 58, 95)"      # navy of the PDF headings and entry numbers (#1F3A5F)
+    skoHubMiddleColor: "rgb(52, 86, 130)"   # lighter navy
+    skoHubLightColor: "rgb(143, 166, 196)"  # pale navy
+    skoHubThinColor: "rgb(226, 233, 242)"   # very pale navy
+    skoHubBlackColor: "rgb(33, 33, 33)"     # body text
+    skoHubAction: "rgb(106, 0, 196)"        # FRIDA logo purple
+    skoHubNotice: "rgb(250, 114, 0)"        # FRIDA logo orange
+    skoHubDarkGrey: "rgb(95, 99, 104)"      # grey of the PDF notes and labels (#5F6368)
     skoHubMiddleGrey: "rgb(200, 200, 200)"
     skoHubLightGrey: "rgb(235, 235, 235)"
   fonts:
     regular:
-      font_family: "Ubuntu"
+      font_family: "Arimo"
       font_style: "normal"
       font_weight: 400
-      name: "ubuntu-v20-latin-regular"
+      name: "arimo-regular"   # files static/fonts/arimo-regular.woff2/.woff/.ttf
     bold:
-      font_family: "Ubuntu"
+      font_family: "Arimo"
       font_style: "normal"
       font_weight: 700
-      name: "ubuntu-v20-latin-700"
-
+      name: "arimo-bold"
